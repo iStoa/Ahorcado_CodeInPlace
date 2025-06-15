@@ -2,8 +2,6 @@
 
 ¡Bienvenido al clásico juego del Ahorcado, desarrollado completamente en Python! Este es un proyecto simple y divertido, ideal para demostrar habilidades básicas de programación en Python de una manera interactiva y entretenida.
 
-![Ahorcado Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDNzZ2F6c3R2d3J2dzE4bnR3azJpNnJzb2Q4bzFmMXVsdnNwdmxwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41lH4ADRt5g3I4gg/giphy.gif)
-
 ## 📜 Descripción del Juego
 
 El objetivo es adivinar una palabra secreta seleccionada al azar de una lista predefinida. Tienes un total de **6 oportunidades** para adivinar la palabra letra por letra. Si fallas 6 veces, ¡el juego termina!
